@@ -4,4 +4,4 @@ PDF with exercises
 TXT file with my answers
 PDF where I applied some of these exercises utilizing Microsoft SQL suite to a tech salary dataset
 
-Last update 14/06 30% completed
+Last update 19/06/2025 40% completed
